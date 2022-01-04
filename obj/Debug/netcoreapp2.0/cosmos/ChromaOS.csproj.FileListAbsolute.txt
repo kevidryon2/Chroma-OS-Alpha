@@ -1,0 +1,10 @@
+C:\Users\GIUSEPPE\source\repos\ChromaOS\bin\Debug\netcoreapp2.0\cosmos\ChromaOS.deps.json
+C:\Users\GIUSEPPE\source\repos\ChromaOS\bin\Debug\netcoreapp2.0\cosmos\ChromaOS.dll
+C:\Users\GIUSEPPE\source\repos\ChromaOS\bin\Debug\netcoreapp2.0\cosmos\ChromaOS.pdb
+C:\Users\GIUSEPPE\source\repos\ChromaOS\obj\Debug\netcoreapp2.0\cosmos\ChromaOS.csproj.AssemblyReference.cache
+C:\Users\GIUSEPPE\source\repos\ChromaOS\obj\Debug\netcoreapp2.0\cosmos\ChromaOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIUSEPPE\source\repos\ChromaOS\obj\Debug\netcoreapp2.0\cosmos\ChromaOS.AssemblyInfoInputs.cache
+C:\Users\GIUSEPPE\source\repos\ChromaOS\obj\Debug\netcoreapp2.0\cosmos\ChromaOS.AssemblyInfo.cs
+C:\Users\GIUSEPPE\source\repos\ChromaOS\obj\Debug\netcoreapp2.0\cosmos\ChromaOS.csproj.CoreCompileInputs.cache
+C:\Users\GIUSEPPE\source\repos\ChromaOS\obj\Debug\netcoreapp2.0\cosmos\ChromaOS.dll
+C:\Users\GIUSEPPE\source\repos\ChromaOS\obj\Debug\netcoreapp2.0\cosmos\ChromaOS.pdb
